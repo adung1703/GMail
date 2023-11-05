@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
         itemList.add(ItemModel(R.drawable.p, "Poe", "Introducing creator monetization on Poe\n" +
                 "Hi Everyone, This week we launched ...", "08:02 PM"))
-        
+
         itemList.add(ItemModel(R.drawable.p, "Poe", "Introducing creator monetization on Poe\n" +
                 "Hi Everyone, This week we launched ...", "08:02 PM"))
 
